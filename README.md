@@ -1,1 +1,1 @@
-# valency-whitepaper
+# The Valency Project Whitepaper
